@@ -24,13 +24,13 @@ export const metadata = {
   //===== GEO Tags =====
 
   //===== Google Varification =====
-  verification: {
-    other: {
-      "google-site-verification": ['Qt-497Wghx553U3hqDw6wV8NvilpVp8WK4_5W3rf_a0'],
-      "dmca-site-verification": ['Z05ObW9WMWo4VTlQL0VpdEJuTzU0UT090'],
-      "msvalidate.01": ['A21040CE08685574268E4A1F724E0FFD'],
-    },
-  },
+  // verification: {
+  //   other: {
+  //     "google-site-verification": ['Qt-497Wghx553U3hqDw6wV8NvilpVp8WK4_5W3rf_a0'],
+  //     "dmca-site-verification": ['Z05ObW9WMWo4VTlQL0VpdEJuTzU0UT090'],
+  //     "msvalidate.01": ['A21040CE08685574268E4A1F724E0FFD'],
+  //   },
+  // },
   //===== No-Index =====
   robots: {
     index: false,
