@@ -25,7 +25,7 @@ const Card = ({ content, isActive }) => {
 const CardContainer = ({ content, isActive }) => {
     return (
         <div className={styles.cardsMain}>
-            <a href="tel:1 833 500 6007">
+            <a href="tel:0123456789">
                 <Card content={content} isActive={isActive} />
             </a>
         </div>

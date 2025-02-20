@@ -30,7 +30,7 @@ const Risks = () => {
                         />
                         <div className={styles.flexBtn}>
                             <div className={styles.telNumber}>
-                                <a href="tel:+18335006007">(012) 345 6789</a>
+                                <a href="tel:0123456789">(012) 345 6789</a>
                             </div>
                             <div className={styles.emailAddress}>
                                 <a href="mailto:info@xyz.com">info@xyz.com</a>

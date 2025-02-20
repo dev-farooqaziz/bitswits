@@ -49,7 +49,7 @@ const HomeLocationlp = () => {
                                                             8 The Green STE 300, Dover DE 19901.
                                                         </p>
                                                         <a className="f-16 f-500 white"
-                                                            href="tel:8335006007">
+                                                            href="tel:0123456789">
                                                             (012) 345 6789
                                                         </a><br />
                                                         <a className="f-16 f-500 white"
@@ -135,7 +135,7 @@ const HomeLocationlp = () => {
                                                                 8 The Green STE 300, Dover DE 19901.
                                                             </p>
                                                             <a className="f-16 f-500 white"
-                                                                href="tel:8335006007">
+                                                                href="tel:0123456789">
                                                                 (012) 345 6789
                                                             </a><br />
                                                             <a className="f-16 f-500 white"

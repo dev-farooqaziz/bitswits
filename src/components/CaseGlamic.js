@@ -31,7 +31,7 @@ const CaseGlamic = (props) => {
                     </Col>
                     <Col lg={4}>
                       <div className={styles.caseBtn}>
-                        <a href="tel:8335006007">BOOK A CALL</a>
+                        <a href="tel:0123456789">BOOK A CALL</a>
                       </div>
                     </Col>
                   </Row>

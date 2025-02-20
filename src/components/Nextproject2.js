@@ -70,7 +70,7 @@ const Nextproject = () => {
                             <h2 className='fontf font-bold white font65'>A Glimpse Of What’s  <br></br>
                             About To Come </h2>
                             <h2 className='fontf font-bold font75 grdiant'>At BitsWits!</h2>
-                            <a className={styles.project} href="tel:(833) 500-6007">(833) 500-6007</a>
+                            <a className={styles.project} href="tel:(012) 345-6789">(012) 345-6789</a>
                         </Col>
                     </Row>
                     <div className={styles.nextalign}>

@@ -20,7 +20,7 @@ const Risks = ({ data }) => {
                         <ButtonCommon txt="Free Consultation" />
                         <div className={styles.flexBtn}>
                             <div className={styles.telNumber}>
-                                <Link href="tel:+18335006007">(012) 345 6789</Link>
+                                <Link href="tel:0123456789">(012) 345 6789</Link>
                             </div>
                             <div className={styles.emailAddress}>
                                 <Link href="mailto:info@xyz.com">info@xyz.com</Link>

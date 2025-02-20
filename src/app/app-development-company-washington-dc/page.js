@@ -353,8 +353,8 @@ export default function dubaidevelopmentcompany() {
   // Global Content
   const global = {
     address: "",
-    number: "(833) 500-6007",
-    href: "tel:+8335006007",
+    number: "(012) 345-6789",
+    href: "tel:+0123456789",
     image: MapImage,
     link: ""
   }

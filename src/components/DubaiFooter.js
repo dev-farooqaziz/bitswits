@@ -120,7 +120,7 @@ const DubaiFooter = () => {
                                         </a>
                                     </li>
                                     <li className="fw-bold">
-                                        <a href="tel:8335006007">
+                                        <a href="tel:0123456789">
                                             <Image alt="BitsWits" className='img-fluid'
                                                 src={call}
 

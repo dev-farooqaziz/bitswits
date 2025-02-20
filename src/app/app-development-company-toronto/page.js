@@ -270,8 +270,8 @@ export default function dubaidevelopmentcompany() {
   // Global Conten
   const global = {
     address: "512 Wellington St W, Toronto, ON M5V 1E3, Canada",
-    number: "(833) 500-6007",
-    href: "tel:+8335006007",
+    number: "(012) 345-6789",
+    href: "tel:+0123456789",
     image: MapImage,
     link: "https://maps.app.goo.gl/dhULjcCFCiZ9fNyQ7"
   }

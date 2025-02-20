@@ -56,7 +56,7 @@ export default function Page() {
       <Blogs data={BlogsContent} list={BlogsList} />
 
       {/* Breadcrumb Schema */}
-      <script type="application/ld+json" dangerouslySetInnerHTML={{
+      {/* <script type="application/ld+json" dangerouslySetInnerHTML={{
         __html: JSON.stringify({
           "@context": "https://schema.org/",
           "@type": "BreadcrumbList",
@@ -75,10 +75,10 @@ export default function Page() {
             }
           ]
         }),
-      }} />
+      }} /> */}
 
       {/* Website Schema */}
-      <script type="application/ld+json" dangerouslySetInnerHTML={{
+      {/* <script type="application/ld+json" dangerouslySetInnerHTML={{
         __html: JSON.stringify({
           "@context": "https://schema.org/",
           "@type": "WebSite",
@@ -90,10 +90,10 @@ export default function Page() {
             "query-input": "required name=search_term_string"
           }
         }),
-      }} />
+      }} /> */}
 
       {/* Organization Schema */}
-      <script type="application/ld+json" dangerouslySetInnerHTML={{
+      {/* <script type="application/ld+json" dangerouslySetInnerHTML={{
         __html: JSON.stringify({
           "@context": "https://schema.org",
           "@type": "Organization",
@@ -116,10 +116,10 @@ export default function Page() {
             "https://www.linkedin.com/company/officialBitsWits"
           ]
         }),
-      }} />
+      }} /> */}
 
       {/* Local Business Schema */}
-      <script type="application/ld+json" dangerouslySetInnerHTML={{
+      {/* <script type="application/ld+json" dangerouslySetInnerHTML={{
         __html: JSON.stringify({
           "@context": "https://schema.org",
           "@type": "LocalBusiness",
@@ -162,10 +162,10 @@ export default function Page() {
             "https://www.linkedin.com/company/officialBitsWits"
           ]
         }),
-      }} />
+      }} /> */}
 
       {/* Product Schema */}
-      <script
+      {/* <script
         type="application/ld+json"
         dangerouslySetInnerHTML={{
           __html: JSON.stringify({
@@ -194,7 +194,7 @@ export default function Page() {
             }
           }),
         }}
-      />
+      /> */}
 
 
     </>

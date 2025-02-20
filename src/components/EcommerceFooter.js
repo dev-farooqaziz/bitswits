@@ -155,7 +155,7 @@ const EcommerceFooter = () => {
                                     </a>
                                 </li>
                                 <li>
-                                    <a href="tel:8335006007" className='font12 lightgrey'>
+                                    <a href="tel:0123456789" className='font12 lightgrey'>
                                         <Image src={Phone} alt='Phone' className='mb-2' />
                                         <span className='font12 lightgrey ms-2'>(012) 345 6789</span>
                                     </a>

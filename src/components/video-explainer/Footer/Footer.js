@@ -191,8 +191,8 @@ const VideoFooter = () => {
                             <div className={styles.address_detail}>
                                 <ul>
                                     <li>
-                                        <a href="tel:833 500 6007">
-                                            <FaPhoneAlt className={styles.footerIcons} /> 833 500 6007
+                                        <a href="tel:0123456789">
+                                            <FaPhoneAlt className={styles.footerIcons} /> 0123456789
                                         </a>
                                     </li>
                                     <li>

@@ -538,7 +538,7 @@ const HeaderMbl = () => {
                                             <BsFillTelephoneFill size={25} className={styles.email} />
                                         </div>
                                         <div>
-                                            <a className='font15 font-medium white fontf' href="tel:8335006007" onClick={handleMenu}>
+                                            <a className='font15 font-medium white fontf' href="tel:0123456789" onClick={handleMenu}>
                                                 (012) 345 6789
                                             </a>
                                         </div>

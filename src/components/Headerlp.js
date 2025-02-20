@@ -685,7 +685,7 @@ const Header = () => {
                                                             <BsFillTelephoneFill size={25} className={styles.email} />
                                                         </div>
                                                         <div>
-                                                            <a className='font15 font-medium white fontf' href="tel:8335006007" onClick={handleMenu}>
+                                                            <a className='font15 font-medium white fontf' href="tel:0123456789" onClick={handleMenu}>
                                                                 (012) 345 6789
                                                             </a>
                                                         </div>
@@ -699,7 +699,7 @@ const Header = () => {
                         </li>
 
                         <li className={`${styles.navList} ${styles.inqBtn}`} >
-                            <a href='tel:8335006007' className={styles.befLink}> <Image src={call} alt='BitsWits' className='img-fluid' /> (012) 345 6789</a>
+                            <a href='tel:0123456789' className={styles.befLink}> <Image src={call} alt='BitsWits' className='img-fluid' /> (012) 345 6789</a>
                         </li>
                         <li>
                             <div className={styles.mbInq}>
@@ -729,7 +729,7 @@ const Header = () => {
                                             <BsFillTelephoneFill size={25} className={styles.email} />
                                         </div>
                                         <div>
-                                            <a className='font15 font-medium white fontf' href="tel:8335006007" onClick={handleMenu}>
+                                            <a className='font15 font-medium white fontf' href="tel:0123456789" onClick={handleMenu}>
                                                 (012) 345 6789
                                             </a>
                                         </div>

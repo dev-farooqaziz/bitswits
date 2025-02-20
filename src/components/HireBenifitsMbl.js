@@ -133,7 +133,7 @@ const HireBenifitsMbl = () => {
                                 <h2>Benefits</h2>
                                 <p>To Hire Mobile Application Developers</p>
                                 <div className={styles.btns}>
-                                    <a className={`${styles.btn} ${styles.btn1}`} href="tel:8335006007">Book A Call</a>
+                                    <a className={`${styles.btn} ${styles.btn1}`} href="tel:0123456789">Book A Call</a>
                                     <a className={`${styles.btn} ${styles.btn2}`} href='javascript:$zopim.livechat.window.show();'>Live Chat</a>
                                 </div>
                             </div>
@@ -171,7 +171,7 @@ const HireBenifitsMbl = () => {
                                 <h2>Benefits</h2>
                                 <p>To Hire Mobile Application Developers</p>
                                 <div className={styles.btns}>
-                                    <a className={`${styles.btn} ${styles.btn1}`} href="tel:8335006007">Book A Call</a>
+                                    <a className={`${styles.btn} ${styles.btn1}`} href="tel:0123456789">Book A Call</a>
                                     <a className={`${styles.btn} ${styles.btn2}`} href='javascript:$zopim.livechat.window.show();'>Live Chat</a>
                                 </div>
                             </div>

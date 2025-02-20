@@ -44,7 +44,7 @@ export default function Page() {
       <IdeaCta data={IdeaCtaContent} />
 
       {/* Breadcrumb Schema */}
-      <script
+      {/* <script
         type="application/ld+json"
         dangerouslySetInnerHTML={{
           __html: JSON.stringify({
@@ -60,10 +60,10 @@ export default function Page() {
             ],
           }),
         }}
-      />
+      /> */}
 
       {/* Website Schema */}
-      <script
+      {/* <script
         type="application/ld+json"
         dangerouslySetInnerHTML={{
           __html: JSON.stringify({
@@ -78,10 +78,10 @@ export default function Page() {
             },
           }),
         }}
-      />
+      /> */}
 
       {/* Organization Schema */}
-      <script
+      {/* <script
         type="application/ld+json"
         dangerouslySetInnerHTML={{
           __html: JSON.stringify({
@@ -107,11 +107,11 @@ export default function Page() {
             ],
           }),
         }}
-      />
+      /> */}
 
 
       {/* Product Schema */}
-      <script
+      {/* <script
         type="application/ld+json"
         dangerouslySetInnerHTML={{
           __html: JSON.stringify({
@@ -141,7 +141,7 @@ export default function Page() {
             },
           }),
         }}
-      />
+      /> */}
 
     </>
   );

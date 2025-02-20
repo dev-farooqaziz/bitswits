@@ -61,7 +61,7 @@ export default function Page() {
 
 
       {/* Breadcrumb Schema */}
-      <script
+      {/* <script
         type="application/ld+json"
         dangerouslySetInnerHTML={{
           __html: JSON.stringify({
@@ -83,11 +83,11 @@ export default function Page() {
             ],
           }),
         }}
-      />
+      /> */}
 
 
       {/* Website Schema */}
-      <script
+      {/* <script
         type="application/ld+json"
         dangerouslySetInnerHTML={{
           __html: JSON.stringify({
@@ -102,11 +102,11 @@ export default function Page() {
             },
           }),
         }}
-      />
+      /> */}
 
 
       {/* Organization Schema */}
-      <script
+      {/* <script
         type="application/ld+json"
         dangerouslySetInnerHTML={{
           __html: JSON.stringify({
@@ -132,11 +132,11 @@ export default function Page() {
             ],
           }),
         }}
-      />
+      /> */}
 
 
       {/* Local Business Schema */}
-      <script
+      {/* <script
         type="application/ld+json"
         dangerouslySetInnerHTML={{
           __html: JSON.stringify({
@@ -181,11 +181,11 @@ export default function Page() {
             ]
           }),
         }}
-      />
+      /> */}
 
 
       {/* Product Schema */}
-      <script
+      {/* <script
         type="application/ld+json"
         dangerouslySetInnerHTML={{
           __html: JSON.stringify({
@@ -219,7 +219,7 @@ export default function Page() {
             },
           }),
         }}
-      />
+      /> */}
     </>
   );
 }

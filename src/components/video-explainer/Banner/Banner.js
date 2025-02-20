@@ -185,7 +185,7 @@ const Banner = () => {
                             </ul>
                             <Image src={BannerLogos} alt='banner-logos' className='' />
                             <div className='d-flex align-items-center gap-4 pt-4'>
-                                <Link href="tel:8335006007" className={styles.btn}>
+                                <Link href="tel:0123456789" className={styles.btn}>
                                     Get Started
                                 </Link>
                                 <Link href='javascript:$zopim.livechat.window.show();' className='d-flex align align-items-center'>

@@ -50,7 +50,7 @@ export default function Home() {
       <Blogs data={BlogsContent} list={BlogsList} />
 
       {/* Breadcrumb Schema */}
-      <script
+      {/* <script
         type="application/ld+json"
         dangerouslySetInnerHTML={{
           __html: JSON.stringify({
@@ -72,10 +72,10 @@ export default function Home() {
             ]
           })
         }}
-      />
+      /> */}
 
       {/* Website Schema */}
-      <script
+      {/* <script
         type="application/ld+json"
         dangerouslySetInnerHTML={{
           __html: JSON.stringify({
@@ -90,10 +90,10 @@ export default function Home() {
             }
           })
         }}
-      />
+      /> */}
 
       {/* Organization Schema */}
-      <script
+      {/* <script
         type="application/ld+json"
         dangerouslySetInnerHTML={{
           __html: JSON.stringify({
@@ -119,10 +119,10 @@ export default function Home() {
             ]
           })
         }}
-      />
+      /> */}
 
       {/* Local Business Schema */}
-      <script
+      {/* <script
         type="application/ld+json"
         dangerouslySetInnerHTML={{
           __html: JSON.stringify({
@@ -167,10 +167,10 @@ export default function Home() {
             ]
           })
         }}
-      />
+      /> */}
 
       {/* Product Schema */}
-      <script
+      {/* <script
         type="application/ld+json"
         dangerouslySetInnerHTML={{
           __html: JSON.stringify({
@@ -199,7 +199,7 @@ export default function Home() {
             }
           })
         }}
-      />
+      /> */}
 
 
     </>
